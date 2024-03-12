@@ -1,0 +1,18 @@
+.upvote-button {
+  border: none;
+  cursor: pointer;
+}
+
+.background-selected {
+  background-color: #f4f6f8;
+}
+.background -unselected {
+  background-color: #e5e8fd;
+}
+
+.arrow-selected {
+  background-color: #343a40;
+}
+.arrow-unselected {
+  background-color: #253cf2;
+}
