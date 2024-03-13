@@ -1,6 +1,5 @@
 import React from "react";
 import "./UpvoteButton.css";
-import arrowup from "../../../assets/icons/arrow-up.svg";
 
 function UpvoteButton({ selected, onToggle }) {
   return (
